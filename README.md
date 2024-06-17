@@ -1,6 +1,6 @@
 # Full Stack E-Commerce Project using MERN
 
-Live Link - [Bookztron](https://bookztron-dev-branch.netlify.app/)
+Live Link - [Bookztron](https://book-store-gamma-two.vercel.app/)
 
 ## Available Scripts
 
@@ -64,8 +64,6 @@ You may also see any lint errors in the console.
 10. Once the pull request is approved and merged you can pull the changes from upstream to your local repo and delete your extra branch(es).
 11. And last but not least: Always write your commit messages in the present tense. Your commit message should describe what the commit, when applied, does to the code – not what you did to the code.
 
-## You can report issues on this project using Github issue 
-1. You can read more about this from [Github Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
 
 ## Screenshots
 
